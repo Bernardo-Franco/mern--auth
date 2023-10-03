@@ -10,7 +10,15 @@ the environment variables required are :
 "NODE_ENV = development, PORT, MONGO_URI, JWT_SECRET"!
 
 Images of the finished practice =>
-![Alt text](https://github.com/Bernardo-Franco/mern--auth/blob/origin/Mern-Auth-Practice-homePage.JPG?raw=true)
-![Alt text](https://github.com/Bernardo-Franco/mern--auth/blob/origin/Mern-Auth-Practice-ProfilePage.JPG?raw=true)
-![Alt text](https://github.com/Bernardo-Franco/mern--auth/blob/origin/Mern-Auth-Practice-SignInPage.JPG?raw=true)
-![Alt text](https://github.com/Bernardo-Franco/mern--auth/blob/origin/Mern-Auth-Practice-SignUPPage.JPG?raw=true)
+
+
+![Alt text](https://github.com/Bernardo-Franco/mern--auth/blob/main/Mern-Auth-Practice-homePage.JPG?raw=true)
+
+
+![Alt text](https://github.com/Bernardo-Franco/mern--auth/blob/main/Mern-Auth-Practice-ProfilePage.JPG?raw=true)
+
+
+![Alt text](https://github.com/Bernardo-Franco/mern--auth/blob/main/Mern-Auth-Practice-SignInPage.JPG?raw=true)
+
+
+![Alt text](https://github.com/Bernardo-Franco/mern--auth/blob/main/Mern-Auth-Practice-SignUPPage.JPG?raw=true)
