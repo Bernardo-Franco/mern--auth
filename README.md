@@ -10,7 +10,7 @@ the environment variables required are :
 "NODE_ENV = development, PORT, MONGO_URI, JWT_SECRET"!
 
 Images of the finished practice =>
-[Alt text](Mern-Auth-Practice-homePage.JPG)!
-[Alt text](Mern-Auth-Practice-ProfilePage.JPG)!
-[Alt text](Mern-Auth-Practice-SignInPage.JPG)!
-[Alt text](Mern-Auth-Practice-SignUPPage.JPG)
+![Alt text](Mern-Auth-Practice-homePage.JPG)
+![Alt text](Mern-Auth-Practice-ProfilePage.JPG)
+![Alt text](Mern-Auth-Practice-SignInPage.JPG)
+![Alt text](Mern-Auth-Practice-SignUPPage.JPG)
